@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JakeTheGreat.AppHost/JakeTheGreat.AppHost.csproj" />
+  <Project Path="JakeTheGreat.ServiceDefaults/JakeTheGreat.ServiceDefaults.csproj" />
+</Solution>
